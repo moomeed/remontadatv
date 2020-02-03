@@ -1,6 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:0 ,National 1
 http://skdn.redi-vo.com/iptv/ch1?code=231138597819676&key=42663
